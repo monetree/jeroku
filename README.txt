@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
-    <pre style="color:lightpink">
+
     python 3.5.2
     virualenv -p python3 .
     source bin/activate
@@ -57,6 +50,3 @@
       step8: git commit -m "commit message"
       step9: git remote -v
       step10: git push heroku master --force
-    </pre>
-  </body>
-</html>
