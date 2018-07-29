@@ -1,0 +1,2 @@
+# jeroku
+django production
